@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="326.486" height="458.161" viewBox="0 0 326.486 458.161">
+  <g id="direction" transform="translate(-927 -4029.63)">
+    <g id="direction-2" data-name="direction" transform="translate(-451.742 3467.766)">
+      <g id="Group_5621" data-name="Group 5621" transform="translate(1378.742 589.039)">
+        <circle id="Ellipse_34" data-name="Ellipse 34" cx="18.414" cy="18.414" r="18.414" transform="translate(145.594 145.359)" fill="#fff"/>
+        <circle id="Ellipse_35" data-name="Ellipse 35" cx="18.414" cy="18.414" r="18.414" transform="translate(145.594 145.359)" fill="#fff"/>
+        <path id="Path_5992" data-name="Path 5992" d="M1585.28,752.932l-18.255,21.695a22.574,22.574,0,0,1-6.085,6.629L1537.622,801.2l9.994,100.5,11.04-110.968a18.64,18.64,0,0,1,16.706-16.706l110.969-11.04ZM1547.616,624.27l-11.04,110.968a18.64,18.64,0,0,1-16.707,16.706L1408.9,762.985l100.924,10.044,19.418-23.109a22.64,22.64,0,0,1,6.495-6.118l21.9-18.715Z" transform="translate(-1383.658 -599.212)" fill="#f5f5f5"/>
+        <circle id="Ellipse_36" data-name="Ellipse 36" cx="18.414" cy="18.414" r="18.414" transform="translate(145.594 145.359)"/>
+        <circle id="Ellipse_37" data-name="Ellipse 37" cx="18.414" cy="18.414" r="18.414" transform="translate(145.594 145.359)" fill="#fff"/>
+        <circle id="Ellipse_38" data-name="Ellipse 38" cx="18.414" cy="18.414" r="18.414" transform="translate(145.594 145.359)" fill="#fff"/>
+        <circle id="Ellipse_39" data-name="Ellipse 39" cx="18.414" cy="18.414" r="18.414" transform="translate(145.594 145.005)" fill="#f5f5f5"/>
+        <path id="Path_5993" data-name="Path 5993" d="M1552.681,773.2l1.682-2,4.813-4.118A22.634,22.634,0,0,0,1552.681,773.2ZM1586.169,803l-1.791,1.532a22.577,22.577,0,0,0,6.085-6.629Z" transform="translate(-1407.096 -622.491)" fill="#fff"/>
+        <g id="Group_5620" data-name="Group 5620" transform="translate(0 0)">
+          <path id="Path_5994" data-name="Path 5994" d="M1588.262,742.318a22.553,22.553,0,0,0-27.9-3.212l21.9-18.715,152.567-126.059" transform="translate(-1408.348 -594.685)" fill="#b4b4b4"/>
+          <path id="Path_5995" data-name="Path 5995" d="M1740.267,594.332l-124.93,153.906-18.255,21.695a22.555,22.555,0,0,0-3.386-27.615" transform="translate(-1413.781 -594.685)" fill="#f5f5f5"/>
+          <path id="Path_5996" data-name="Path 5996" d="M1526.684,809.274a22.549,22.549,0,0,0,29.275,2.325l-23.319,19.946-153.9,127.164" transform="translate(-1378.742 -629.723)" fill="#e50505"/>
+          <path id="Path_5997" data-name="Path 5997" d="M1378.742,953.058l126.1-155.337,19.418-23.109a22.549,22.549,0,0,0,2.422,29.012" transform="translate(-1378.742 -624.073)" fill="#d73d3d"/>
+        </g>
+      </g>
+      <g id="Group_5622" data-name="Group 5622" transform="translate(1519.597 561.864)">
+        <path id="Path_5998" data-name="Path 5998" d="M1551.791,566.385l-4.761-.784v-3.736h13.68l17.958,27.119,3.375,6.87V566.385l-5.183-.784v-3.736H1591.8V565.6l-4.64.784V606.64h-7.292l-18.742-28.5-4.218-7.955v32.24l6.086.6v3.616h-15.97v-3.616l4.761-.6Z" transform="translate(-1547.029 -561.864)" fill="#605d5d"/>
+      </g>
+    </g>
+    <text id="Positioning" transform="translate(968 4473.791)" fill="#f5f5f5" font-size="39" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Positioning</tspan></text>
+  </g>
+</svg>

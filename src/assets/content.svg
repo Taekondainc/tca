@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="449" height="364.248" viewBox="0 0 449 364.248">
+  <g id="content" transform="translate(85.471 -5)">
+    <g id="Group_5628" data-name="Group 5628" transform="translate(0 5)">
+      <path id="Path_6001" data-name="Path 6001" d="M96.731,622.258v2.824a16.584,16.584,0,1,1-17,.121v-2.836a19.07,19.07,0,1,0,17-.108Z" transform="translate(-52.881 -587.352)" fill="#fff"/>
+      <path id="Path_6002" data-name="Path 6002" d="M98.267,626.351v.472a16.584,16.584,0,1,1-17,.121v-.477a17,17,0,1,0,17-.116Z" transform="translate(-54.416 -589.094)" fill="#fff"/>
+      <path id="Path_6003" data-name="Path 6003" d="M192,622.258v2.824a16.584,16.584,0,1,1-17,.121v-2.836a19.07,19.07,0,1,0,17-.108Z" transform="translate(-93.418 -587.352)" fill="#fff"/>
+      <path id="Path_6004" data-name="Path 6004" d="M193.54,626.351v.472a16.584,16.584,0,1,1-17,.121v-.477a17,17,0,1,0,17-.116Z" transform="translate(-94.954 -589.094)" fill="#fff"/>
+      <path id="Path_6005" data-name="Path 6005" d="M287.277,622.258v2.824a16.584,16.584,0,1,1-17,.121v-2.836a19.07,19.07,0,1,0,17-.108Z" transform="translate(-133.956 -587.352)" fill="#fff"/>
+      <path id="Path_6006" data-name="Path 6006" d="M288.813,626.351v.472a16.584,16.584,0,1,1-17,.121v-.477a17,17,0,1,0,17-.116Z" transform="translate(-135.492 -589.094)" fill="#fff"/>
+      <path id="Path_6007" data-name="Path 6007" d="M382.55,622.258v2.824a16.584,16.584,0,1,1-17,.121v-2.836a19.07,19.07,0,1,0,17-.108Z" transform="translate(-174.494 -587.352)" fill="#fff"/>
+      <path id="Path_6008" data-name="Path 6008" d="M384.086,626.351v.472a16.584,16.584,0,1,1-17,.121v-.477a17,17,0,1,0,17-.116Z" transform="translate(-176.03 -589.094)" fill="#fff"/>
+      <g id="Group_5625" data-name="Group 5625" transform="translate(0 19.282)">
+        <rect id="Rectangle_2037" data-name="Rectangle 2037" width="216.868" height="1.659" transform="translate(10.056 148.241)" fill="#fff"/>
+        <rect id="Rectangle_2038" data-name="Rectangle 2038" width="217.075" height="1.659" transform="translate(9.848 117.971)" fill="#fff"/>
+        <rect id="Rectangle_2039" data-name="Rectangle 2039" width="216.66" height="1.659" transform="translate(10.263 178.511)" fill="#fff"/>
+        <rect id="Rectangle_2040" data-name="Rectangle 2040" width="216.246" height="1.659" transform="translate(10.678 239.052)" fill="#fff"/>
+        <rect id="Rectangle_2041" data-name="Rectangle 2041" width="216.453" height="1.659" transform="translate(10.47 208.782)" fill="#fff"/>
+        <rect id="Rectangle_2042" data-name="Rectangle 2042" width="217.282" height="1.659" transform="translate(9.641 87.701)" fill="#fff"/>
+        <path id="Path_6009" data-name="Path 6009" d="M248.806,595.062v2.073h26.538V850.908H42.823V597.135H67.6v-2.073H40.75V852.981H277.418V595.062Z" transform="translate(-40.75 -595.062)" fill="#fff"/>
+        <rect id="Rectangle_2043" data-name="Rectangle 2043" width="37.734" height="2.073" transform="translate(153.321)" fill="#fff"/>
+        <rect id="Rectangle_2044" data-name="Rectangle 2044" width="37.734" height="2.073" transform="translate(43.85)" fill="#fff"/>
+        <rect id="Rectangle_2045" data-name="Rectangle 2045" width="37.734" height="2.073" transform="translate(98.586)" fill="#fff"/>
+      </g>
+      <g id="Group_5626" data-name="Group 5626" transform="translate(26.849 0)">
+        <path id="Path_6010" data-name="Path 6010" d="M95.984,561.5a8.512,8.512,0,0,0-8.5,8.5v38.563a8.5,8.5,0,1,0,17,0V570a8.5,8.5,0,0,0-8.5-8.5Zm6.428,47.064a6.427,6.427,0,1,1-12.855,0V570a6.427,6.427,0,0,1,12.855,0Z" transform="translate(-87.484 -561.5)" fill="#fff"/>
+        <path id="Path_6011" data-name="Path 6011" d="M191.257,561.5a8.512,8.512,0,0,0-8.5,8.5v38.563a8.5,8.5,0,1,0,17,0V570a8.5,8.5,0,0,0-8.5-8.5Zm6.428,47.064a6.427,6.427,0,1,1-12.855,0V570a6.427,6.427,0,0,1,12.855,0Z" transform="translate(-128.022 -561.5)" fill="#fff"/>
+        <path id="Path_6012" data-name="Path 6012" d="M286.53,561.5a8.512,8.512,0,0,0-8.5,8.5v38.563a8.5,8.5,0,1,0,17,0V570a8.5,8.5,0,0,0-8.5-8.5Zm6.428,47.064a6.427,6.427,0,1,1-12.855,0V570a6.427,6.427,0,0,1,12.855,0Z" transform="translate(-168.56 -561.5)" fill="#fff"/>
+        <path id="Path_6013" data-name="Path 6013" d="M387.816,563.988A8.5,8.5,0,0,0,373.3,570v38.563a8.5,8.5,0,1,0,17,0V570A8.453,8.453,0,0,0,387.816,563.988Zm.415,44.576a6.427,6.427,0,1,1-12.855,0V570a6.427,6.427,0,0,1,12.855,0Z" transform="translate(-209.097 -561.5)" fill="#fff"/>
+      </g>
+      <g id="Group_5627" data-name="Group 5627" transform="translate(245.155 99.266)">
+        <path id="Path_6014" data-name="Path 6014" d="M494.621,763.5a16.155,16.155,0,0,0-11.11-4.741v-.006l-.09,0-.09,0v.006a16.211,16.211,0,0,0-15.861,16.216V791.2h31.9V774.974A16.128,16.128,0,0,0,494.621,763.5Z" transform="translate(-467.47 -744.695)" fill="#fff"/>
+        <path id="Path_6015" data-name="Path 6015" d="M496.661,747.544v-7.495a5.757,5.757,0,0,0-5.407-5.751v-.014c-.03,0-.06.006-.09.007s-.06-.006-.09-.007v.014a5.757,5.757,0,0,0-5.407,5.751v7.495a15.573,15.573,0,0,1,10.995,0Z" transform="translate(-475.212 -734.284)" fill="#fff"/>
+        <path id="Path_6016" data-name="Path 6016" d="M483.645,907.479h15.681V820.243H467.784v87.236h15.861Z" transform="translate(-467.604 -770.859)" fill="#fff"/>
+        <path id="Path_6017" data-name="Path 6017" d="M490.212,1017.892h-6.571l6.571,11.381v.313l.09-.156.09.156v-.312l6.571-11.381h-6.751Z" transform="translate(-474.351 -854.957)" fill="#fff"/>
+        <path id="Path_6018" data-name="Path 6018" d="M488.466,1010.782h-8.928l1.941,3.363h14.154l1.941-3.363h-9.109Z" transform="translate(-472.605 -851.932)" fill="#fff"/>
+        <path id="Path_6019" data-name="Path 6019" d="M483.465,977.106H467.784v8.181q2.819,4.2,5.635,8.4H493.69q2.815-4.2,5.635-8.4v-8.181H483.465Z" transform="translate(-467.604 -837.603)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="content_marketing" data-name="content marketing" transform="translate(-85.471 355.247)" fill="#f5f5f5" font-size="41" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">CONTENT MARKETING</tspan></text>
+  </g>
+</svg>

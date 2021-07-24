@@ -1,0 +1,34 @@
+<svg id="Group_5306" data-name="Group 5306" xmlns="http://www.w3.org/2000/svg" width="98.485" height="43.668" viewBox="0 0 98.485 43.668">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d4d4d4;
+        font-size: 21px;
+        font-family: Poppins-Bold, Poppins;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #efecec;
+      }
+
+      .cls-3 {
+        fill: #f2f2f2;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <text id="Send" class="cls-1" transform="translate(7.433 28.504)"><tspan x="0" y="0">Send</tspan></text>
+  <g id="Rectangle_1893" data-name="Rectangle 1893" class="cls-2" transform="translate(0)">
+    <rect class="cls-4" width="98.485" height="43.668" rx="1"/>
+    <rect class="cls-5" x="0.5" y="0.5" width="97.485" height="42.668" rx="0.5"/>
+  </g>
+  <path id="Icon_ionic-ios-send" data-name="Icon ionic-ios-send" class="cls-3" d="M20.575,4.54,4.708,11.455a.364.364,0,0,0,.013.661l4.292,2.425a.692.692,0,0,0,.791-.078l8.463-7.3c.056-.048.19-.138.242-.086s-.03.186-.078.242L11.109,15.57a.69.69,0,0,0-.069.826l2.805,4.5a.365.365,0,0,0,.657-.009L21.063,5.02A.364.364,0,0,0,20.575,4.54Z" transform="translate(68.371 8.571)"/>
+</svg>
